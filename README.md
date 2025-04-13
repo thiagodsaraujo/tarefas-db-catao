@@ -2,22 +2,22 @@
 
 Este repositório contém o microsserviço de banco de dados da aplicação de tarefas, utilizando **MongoDB**. Faz parte da atividade prática da disciplina **Desenvolvimento de Sistemas** da **UNIFACISA**, ministrada pelo professor @brunogamacatao.
 
-LINK BACK END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_back.git
-LINK FRONT-END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_front.git
+- LINK BACK END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_back.git
+ LINK FRONT-END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_front.git
 ---
 
 ## 🔗 Microsserviços Relacionados
 
 - 🔧 **Backend (Express + Node.js)**  
-  https://github.com/thiagodsaraujo/tarefas_back_catao  
-  DockerHub: [thiagodsaraujo/tarefas_back_catao](https://hub.docker.com/r/thiagodsaraujo/tarefas_back_catao)
+  -- https://github.com/thiagodsaraujo/tarefas_back_catao  
+  -- DockerHub: [thiagodsaraujo/tarefas_back_catao](https://hub.docker.com/r/thiagodsaraujo/tarefas_back_catao)
 
 - 💻 **Frontend (React + Nginx)**  
-  https://github.com/thiagodsaraujo/tarefas_front  
-  DockerHub: [thiagodsaraujo/tarefas_front](https://hub.docker.com/r/thiagodsaraujo/tarefas_front)
+  -- https://github.com/thiagodsaraujo/tarefas_front  
+  -- DockerHub: [thiagodsaraujo/tarefas_front](https://hub.docker.com/r/thiagodsaraujo/tarefas_front)
 
 - 🗃️ **Banco de Dados (MongoDB)** ← este repositório  
-  DockerHub: [thiagodsaraujo/tarefas_db_mongo](https://hub.docker.com/r/thiagodsaraujo/tarefas_db_mongo)
+  -- DockerHub: [thiagodsaraujo/tarefas_db_mongo](https://hub.docker.com/r/thiagodsaraujo/tarefas_db_mongo)
 
 ---
 
