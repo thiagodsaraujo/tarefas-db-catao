@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+
+  db:
+    image: thiagodsaraujo/tarefas_db_mongo
+    container_name: tarefas_mongo
+    ports:
+      - "27017:27017"
+    restart: always
+
+  backend:
+    image: thiagodsaraujo/tarefas_back_catao
+    container_name: tarefas_back
+    ports:
+      - "5000:5000"
+    environment:
+      - URL_BANCO_DE_DADOS=mongodb://db:27017/tarefas
+    depends_on:
+      - db
+    restart: always
+
+  frontend:
+    image: thiagodsaraujo/tarefas_front
+    container_name: tarefas_front
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: always
