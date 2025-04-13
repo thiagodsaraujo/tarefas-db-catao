@@ -3,7 +3,7 @@
 Este repositório contém o microsserviço de banco de dados da aplicação de tarefas, utilizando **MongoDB**. Faz parte da atividade prática da disciplina **Desenvolvimento de Sistemas** da **UNIFACISA**, ministrada pelo professor @brunogamacatao.
 
 - LINK BACK END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_back.git
- LINK FRONT-END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_front.git
+- LINK FRONT-END (CÓDIGO ORIGINAL DO PROFESSOR): https://github.com/brunogamacatao/tarefas_front.git
 ---
 
 ## 🔗 Microsserviços Relacionados
